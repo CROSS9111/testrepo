@@ -75,4 +75,3 @@ jobs:
           app-name: 'shiryousanapp'
           slot-name: 'Production'
           package: ./deploy
-          # publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A710CC617444BFD8EA05FB7AD767D4B }}
